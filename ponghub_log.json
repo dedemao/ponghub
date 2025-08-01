@@ -1,0 +1,26 @@
+{
+  "My Pages": {
+    "service_history": [
+      {
+        "time": "2025-08-01T05:54:59Z",
+        "online": "part"
+      }
+    ],
+    "ports": {
+      "http://www.884358.com": [
+        {
+          "time": "2025-08-01T05:54:59Z",
+          "online": "part",
+          "response_time": 1031
+        }
+      ],
+      "https://www.dedemao.com": [
+        {
+          "time": "2025-08-01T05:55:05Z",
+          "online": "all",
+          "response_time": 1694
+        }
+      ]
+    }
+  }
+}
