@@ -8,6 +8,10 @@
       {
         "time": "2025-08-01T06:29:15Z",
         "online": "all"
+      },
+      {
+        "time": "2025-08-01T06:59:48Z",
+        "online": "part"
       }
     ],
     "ports": {
@@ -21,6 +25,11 @@
           "time": "2025-08-01T06:29:15Z",
           "online": "all",
           "response_time": 1298
+        },
+        {
+          "time": "2025-08-01T06:59:48Z",
+          "online": "part",
+          "response_time": 855
         }
       ],
       "https://www.dedemao.com": [
@@ -33,6 +42,11 @@
           "time": "2025-08-01T06:29:16Z",
           "online": "all",
           "response_time": 1422
+        },
+        {
+          "time": "2025-08-01T06:59:54Z",
+          "online": "all",
+          "response_time": 1196
         }
       ]
     }
