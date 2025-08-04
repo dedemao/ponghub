@@ -2,14 +2,6 @@
   "My Pages": {
     "service_history": [
       {
-        "time": "2025-08-01T05:54:59Z",
-        "online": "part"
-      },
-      {
-        "time": "2025-08-01T06:29:15Z",
-        "online": "all"
-      },
-      {
         "time": "2025-08-01T06:59:48Z",
         "online": "part"
       },
@@ -472,20 +464,14 @@
       {
         "time": "2025-08-04T05:34:48Z",
         "online": "all"
+      },
+      {
+        "time": "2025-08-04T06:34:15Z",
+        "online": "all"
       }
     ],
     "ports": {
       "http://www.884358.com": [
-        {
-          "time": "2025-08-01T05:54:59Z",
-          "online": "part",
-          "response_time": 1031
-        },
-        {
-          "time": "2025-08-01T06:29:15Z",
-          "online": "all",
-          "response_time": 1298
-        },
         {
           "time": "2025-08-01T06:59:48Z",
           "online": "part",
@@ -1065,19 +1051,14 @@
           "time": "2025-08-04T05:34:48Z",
           "online": "all",
           "response_time": 1295
+        },
+        {
+          "time": "2025-08-04T06:34:15Z",
+          "online": "all",
+          "response_time": 1198
         }
       ],
       "https://www.dedemao.com": [
-        {
-          "time": "2025-08-01T05:55:05Z",
-          "online": "all",
-          "response_time": 1694
-        },
-        {
-          "time": "2025-08-01T06:29:16Z",
-          "online": "all",
-          "response_time": 1422
-        },
         {
           "time": "2025-08-01T06:59:54Z",
           "online": "all",
@@ -1657,6 +1638,11 @@
           "time": "2025-08-04T05:34:50Z",
           "online": "all",
           "response_time": 1513
+        },
+        {
+          "time": "2025-08-04T06:34:16Z",
+          "online": "all",
+          "response_time": 1511
         }
       ]
     }
